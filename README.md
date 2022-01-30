@@ -30,3 +30,4 @@ CREATE TABLE IF NOT EXISTS `tutorials` (
 
 
 ### Here is the link of postman collection
+https://github.com/haxandev/Node-JS-CRUD---Express-MYSQL/blob/master/NodeJs%20CRUD.postman_collection.json
