@@ -16,7 +16,7 @@ node server.js
 /app/db.config.js
 
 
-### Create DB by running this command in MYSQL
+### Create a new Database and run this command on the created database
 
 ---
 CREATE TABLE IF NOT EXISTS `tutorials` (
